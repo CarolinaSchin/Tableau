@@ -1,7 +1,7 @@
 # Tableau
 Data Visualization
 
-Os gráficos gerados pelo Tableau e aqui listados foram utilizados no desenvolvimento da proposta do Flyber.
+Os gráficos gerados pelo Tableau e aqui listados foram utilizados no desenvolvimento da proposta do [Flyber](https://github.com/CarolinaSchin/Data-Product-Management).
  
 Os dadaset utilizado foi disponibilizado pelo time da Udacity e contém dados reais do sistema de táxis na cidade de Nova York. 
 
