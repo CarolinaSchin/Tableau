@@ -1,5 +1,5 @@
 # Tableau
-Data Visualization
+Gráficos, Visualizações e Dashboards.
 
 Os gráficos gerados pelo Tableau e aqui listados foram utilizados no desenvolvimento da proposta do [Flyber](https://github.com/CarolinaSchin/Data-Product-Management).
  
