@@ -5,4 +5,4 @@ Os gráficos gerados pelo Tableau e aqui listados foram utilizados no desenvolvi
  
 Os dadaset utilizado foi disponibilizado pelo time da Udacity e contém dados reais do sistema de táxis na cidade de Nova York. 
 
-Como o Flyber é o primeiro carro voador, foram considerados os dados de táxis comuns para uma análise inicial comparativa.
+Como o Flyber é uma proposta de taxi voador, foram considerados os dados de táxis comuns para uma análise inicial comparativa.
