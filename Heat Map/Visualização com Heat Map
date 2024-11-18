@@ -1,0 +1,13 @@
+Visualizações geradas no Tableau para melhor compreender o usuário do serviço de taxi da cidade de New York.
+
+Heat map: um gráfico que usa cores para mostrar a intensidade dos dados, ajudando a identificar padrões de forma rápida.
+
+Vantagem: permite ver facilmente concentrações e tendências, mesmo em grandes volumes de dados.
+
+Caso de uso: análise das áreas mais movimentadas pelos táxis de Nova York, mostrando onde há maior demanda por corridas ao longo do dia.
+
+Essa compreensão foi fundamental para que as decisões a respeito do produto fossem tomadas de forma estratégica.
+
+Os dados utilizados foram dados públicos sobre o sistema de taxi regular, uma vez que o Flyber seria o pionerio na linha de taxi aéreo. Os arquivos com os dados utilizado também podem ser encontrados nesse repositório.
+
+Os links das visualizações reais podem ser conferidos na descrição de cada imagem, com redirecionamento para o Tableu Public.
