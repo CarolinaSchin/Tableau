@@ -1,0 +1,13 @@
+Visualizações geradas no Tableau para melhor compreender o usuário do serviço de taxi da cidade de New York.
+
+Line graph: gráfico de linha que mostra como os valores mudam ao longo do tempo, conectando pontos de dados com uma linha.
+
+Vantagem: permite visualizar tendências, aumentos ou quedas de forma clara.
+
+Caso de uso: monitorar a variação diária do número de passageiros ao longo do dia, número de corridas por hora e flutuações.
+
+Essa compreensão foi fundamental para que as decisões a respeito do produto fossem tomadas de forma estratégica.
+
+Os dados utilizados foram dados públicos sobre o sistema de taxi regular, uma vez que o Flyber seria o pionerio na linha de taxi aéreo. Os arquivos com os dados utilizado também podem ser encontrados nesse repositório.
+
+Os links das visualizações reais podem ser conferidos na descrição de cada imagem, com redirecionamento para o Tableu Public.
